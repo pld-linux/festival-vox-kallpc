@@ -2,7 +2,7 @@ Summary:	American English male voice 'kal'
 Summary(pl):	Amerykañska odmiana jêzyka angielskiego - g³os mêski 'kal'
 Name:		festival-vox-kallpc
 Version:	0.1
-Release:	2
+Release:	3
 License:	distributable
 Group:		Applications/Sound
 Source0:	http://www.cstr.ed.ac.uk/download/festival/1.4.2/festvox_kallpc16k.tar.gz
