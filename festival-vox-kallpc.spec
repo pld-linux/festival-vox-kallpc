@@ -22,7 +22,7 @@ duration model is also trained from data using a CART tree.
 
 %description -l pl
 Ten pakiet udostêpnia g³os mêski dla amerykañskiej odmiany jêzyka
-angielskiego. U¿ywa wzbudzanej szcz±tkowo dwyg³oskowej metody syntezy
+angielskiego. U¿ywa wzbudzanej szcz±tkowo dwug³oskowej metody syntezy
 LPC. U¿ywa leksykonu wymowy CMU. Frazy prozodyczne s± zapewnione
 przez statystycznie nauczony model przy u¿yciu czê¶ci mowy i lokalnego
 roz³o¿enia przerw. Intonacjê zapewnia drzewo CART przewiduj±ce akcenty
