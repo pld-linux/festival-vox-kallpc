@@ -1,5 +1,5 @@
 Summary:	American English male voice 'kal'
-Summary(pl):	Amerykañska odmiana jêzyka angielskiego - g³os mêski 'kal'
+Summary(pl.UTF-8):   AmerykaÅ„ska odmiana jÄ™zyka angielskiego - gÅ‚os mÄ™ski 'kal'
 Name:		festival-vox-kallpc
 Version:	0.1
 Release:	3
@@ -20,14 +20,14 @@ Intonation is provided by a CART tree predicting ToBI accents and an
 F0 contour generated from a model trained from natural speech. The
 duration model is also trained from data using a CART tree.
 
-%description -l pl
-Ten pakiet udostêpnia g³os mêski dla amerykañskiej odmiany jêzyka
-angielskiego. U¿ywa wzbudzanej szcz±tkowo dwug³oskowej metody syntezy
-LPC. U¿ywa leksykonu wymowy CMU. Frazy prozodyczne s± zapewnione
-przez statystycznie nauczony model przy u¿yciu czê¶ci mowy i lokalnego
-roz³o¿enia przerw. Intonacjê zapewnia drzewo CART przewiduj±ce akcenty
+%description -l pl.UTF-8
+Ten pakiet udostÄ™pnia gÅ‚os mÄ™ski dla amerykaÅ„skiej odmiany jÄ™zyka
+angielskiego. UÅ¼ywa wzbudzanej szczÄ…tkowo dwugÅ‚oskowej metody syntezy
+LPC. UÅ¼ywa leksykonu wymowy CMU. Frazy prozodyczne sÄ… zapewnione
+przez statystycznie nauczony model przy uÅ¼yciu czÄ™Å›ci mowy i lokalnego
+rozÅ‚oÅ¼enia przerw. IntonacjÄ™ zapewnia drzewo CART przewidujÄ…ce akcenty
 ToBI i obrys F0 generowany z modelu nauczonego na podstawie naturalnej
-mowy. Model czasów trwania jest nauczony na podstawie danych z drzewa
+mowy. Model czasÃ³w trwania jest nauczony na podstawie danych z drzewa
 CART.
 
 %prep
