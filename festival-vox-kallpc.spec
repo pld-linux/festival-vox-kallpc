@@ -1,5 +1,5 @@
 Summary:	American English male voice 'kal'
-Summary(pl.UTF-8):   Amerykańska odmiana języka angielskiego - głos męski 'kal'
+Summary(pl.UTF-8):	Amerykańska odmiana języka angielskiego - głos męski 'kal'
 Name:		festival-vox-kallpc
 Version:	0.1
 Release:	3
